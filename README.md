@@ -4,7 +4,7 @@
 
 A machine learning application that predicts smog levels using logistic regression with real-world environmental data patterns. This project demonstrates advanced data science concepts with a production-quality web interface.
 
-## 🏆 Project Overview
+## 💻 Project Overview
 
 SmogCast Predictor is a comprehensive air quality forecasting system that uses **One-vs-All Logistic Regression** to classify smog levels into 6 categories based on environmental parameters. The application processes over 2000 realistic data samples from major cities worldwide and provides real-time predictions with detailed model performance analytics.
 
