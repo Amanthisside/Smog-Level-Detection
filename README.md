@@ -1,6 +1,6 @@
 # SmogCast Predictor: Advanced Smog Level Forecasting using Logistic Regression
 
-![SmogCast AI](https://img.shields.io/badge/SmogCast-AI-brightgreen) ![Machine Learning](https://img.shields.io/badge/ML-Logistic%20Regression-blue) ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?logo=typescript&logoColor=white) ![React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB)
+![SmogCast AI](https://img.shields.io/badge/SmogCast-Predictor-brightgreen) ![Machine Learning](https://img.shields.io/badge/ML-Logistic%20Regression-blue) ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?logo=typescript&logoColor=white) ![React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB)
 
 A machine learning application that predicts smog levels using logistic regression with real-world environmental data patterns. This project demonstrates advanced data science concepts with a production-quality web interface.
 
